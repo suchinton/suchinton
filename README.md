@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suchinton Chakravarty</h1>
 <h3 align="center">A curious tinkerer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e473cgujyuchowc8l3ewau00opj4o0ww2h1kg5tbl1r&rid=giphy.gif&ct=g">
-
 - 🔭 I’m currently working on [AGL-Kuksa.val-Visualiser](https://github.com/suchinton/AGL-Kuksa.val-Visualiser)
 
 - 🌱 I’m currently learning **Python, Flutter and Dart**
@@ -19,4 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suchinton&show_icons=true&theme=dracula&locale=en" alt="suchinton" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchinton&theme=dark" alt="suchinton" /></p>
