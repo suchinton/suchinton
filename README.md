@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suchinton Chakravarty</h1>
 <h3 align="center">A curious tinkerer</h3>
 
-- 🔭 I’m currently working on [AGL-Kuksa.val-Visualiser](https://github.com/suchinton/AGL-Kuksa.val-Visualiser)
+- 🔭 I’m currently working on [AGL_Demo_Control_Panel](https://github.com/suchinton/AGL_Demo_Control_Panelhttps://github.com/suchinton/AGL_Demo_Control_Panel)
 
 - 🌱 I’m currently learning **Python, Flutter and Dart**
 
-- 💬 Ask me about **C, C++, Java and Linux**
+- 💬 Ask me about **Python, C++, Java and Linux**
 
 <p align="left">
 </p>
