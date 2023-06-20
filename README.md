@@ -26,7 +26,7 @@
 
 ---
 
-- 🔭 I’m currently working on [AGL_Demo_Control_Panel](https://github.com/suchinton/AGL_Demo_Control_Panelhttps://github.com/suchinton/AGL_Demo_Control_Panel)
+- 🔭 I’m currently working on [AGL_Demo_Control_Panel](https://github.com/suchinton/AGL_Demo_Control_Panel)
 
 - 🌱 I’m currently learning **Python, Flutter and Dart**
 
