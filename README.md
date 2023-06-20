@@ -19,6 +19,9 @@
   <a href="https://www.instagram.com/suchinton_never_/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/instagram.png"/>
   </a>
+  <a href="https://suchinton.github.io/articles/index.xml">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/rss.png"/>
+  </a>
 </p>
 
 ---
